@@ -1,3 +1,4 @@
+#Prueba de una ventana y un boton
 import customtkinter as ctk
 
 # Configura el modo de apariencia del sistema (opcional: 'dark' o 'light')
@@ -15,3 +16,4 @@ boton.place(relx=0.5, rely=0.5, anchor=ctk.CENTER)
 
 # Inicia la aplicación
 app.mainloop()
+
